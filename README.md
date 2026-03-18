@@ -1,4 +1,4 @@
-## 🎬 MoviesApp Testing Project
+## 🎬 GalleryMovies Testing Project
 A professional testing suite built with Jest, Supertest, Express, Sequelize, and PostgreSQL.
 This project validates the functionality of the Movies API by implementing structured unit and integration tests across all CRUD endpoints and relationship assignments.
 
