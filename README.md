@@ -2,7 +2,9 @@
 A professional testing suite built with Jest, Supertest, Express, Sequelize, and PostgreSQL.
 This project validates the functionality of the Movies API by implementing structured unit and integration tests across all CRUD endpoints and relationship assignments.
 
+<p align="center">
 <img width="263" height="93" alt="image" src="https://github.com/user-attachments/assets/1d5c6173-ce0a-4a8f-afab-1dcf232a7c2b" />
+</p>
 
 ---
 
@@ -158,7 +160,9 @@ Developed by Clio Salgado as part of the Node.js & Backend module at Academlo, w
 Una suite de pruebas profesional construida con Jest, Supertest, Express, Sequelize y PostgreSQL. 
 Este proyecto valida la funcionalidad de la API de Películas mediante la implementación de pruebas unitarias e integrales estructuradas en todos los endpoints CRUD y las asignaciones de relaciones.
 
-<img width="263" height="93" alt="image" src="https://github.com/user-attachments/assets/b40773a0-d8dd-4fbc-b877-7112100a4029"/>
+<p align="center">
+<img width="263" height="93" alt="image" src="https://github.com/user-attachments/assets/1d5c6173-ce0a-4a8f-afab-1dcf232a7c2b" />
+</p>
 
 ---
 
