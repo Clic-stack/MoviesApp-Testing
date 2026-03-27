@@ -1,3 +1,9 @@
+## 📌 ** *Project Status: Archived* **
+
+**Note: This repository has been archived as it represents an early stage in my learning journey with Testing and Continuous Integration.**
+
+The testing concepts and methodologies applied here have been evolved, strengthened, and scaled in my flagship project: GalleryMovies-FullStack-QA-Suite, which features a robust suite of 19 continuous integration (CI/CD) tests using PostgreSQL and GitHub Actions.
+
 ## 🎬 GalleryMovies Testing Project
 A professional testing suite built with Jest, Supertest, Express, Sequelize, and PostgreSQL.
 This project validates the functionality of the Movies API by implementing structured unit and integration tests across all CRUD endpoints and relationship assignments.
@@ -154,6 +160,12 @@ Developed by Clio Salgado as part of the Node.js & Backend module at Academlo, w
 - Professional documentation and reproducible workflows
 
 🔽 Versión en Español 🔽
+
+## 📌 ** *Estatus del Proyecto: Archivado* **
+
+**Nota: Este repositorio ha sido archivado ya que representa una etapa inicial de aprendizaje en Testing e Integración Continua.**
+
+Los conceptos y metodologías de pruebas aquí aplicados han sido evolucionados, robustecidos y escalados en mi proyecto principal: GalleryMovies-FullStack-QA-Suite, donde implemento una suite de 19 tests de integración continua (CI/CD) con PostgreSQL y GitHub Actions.
 
 ## 🎬 Proyecto de Testing: GalleryMovies
 
